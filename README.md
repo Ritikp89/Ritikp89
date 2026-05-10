@@ -175,7 +175,7 @@
 ## 🔝 Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ritikp89&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritikp89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&hide_title=false&card_width=500"/>
 </div>
 
 ---
@@ -191,10 +191,6 @@
 ## 👥 Visitor Count
 
 <div align="center">
-
-<img src="https://profile-counter.glitch.me/ritikp89/count.svg" />
-
-<br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=ritikp89&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=TOTAL+VISITORS)
 &nbsp;
