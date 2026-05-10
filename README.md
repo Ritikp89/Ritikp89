@@ -12,6 +12,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ritikp89&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ritikp89)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+![Visitors](https://komarev.com/ghpvc/?username=ritikp89&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=VISITORS)
 
 </div>
 
