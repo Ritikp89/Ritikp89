@@ -14,8 +14,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ritikp89.ritikp89&left_color=0d1117&right_color=00f5ff&left_text=VISITORS)
-&nbsp;
+[![Visitors](https://img.shields.io/badge/Visitors-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&label=VISITORS&color=7c3aed)](https://github.com/ritikp89)
 
 </div>
 
