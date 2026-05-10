@@ -14,7 +14,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fritikp89&count_bg=%2300F5FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -23,10 +23,10 @@
 <!-- About Me Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-## 🧬 `who am i`
+## 🧬 `whoami`
 
 ```json
-
+// $ cat about_me.json
 {
   "name": "Ritik Pandey",
   "location": "India 🇮🇳",
@@ -135,20 +135,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ritikp89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&text_color=ffffff" />
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikp89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" />
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritikp89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritikp89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
 </div>
 
 <div align="center">
-
-  <img width="70%"
-    src="https://streak-stats.demolab.com/?user=ritikp89&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=7c3aed&dates=ffffff" />
-
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikp89&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=7c3aed&dates=ffffff"/>
 </div>
 
 ---
