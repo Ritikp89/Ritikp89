@@ -135,12 +135,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritikp89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikp89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ritikp89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&text_color=ffffff" />
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikp89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" />
+
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=ritikp89&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=7c3aed&dates=ffffff"/>
+
+  <img width="70%"
+    src="https://streak-stats.demolab.com/?user=ritikp89&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=7c3aed&dates=ffffff" />
+
 </div>
 
 ---
