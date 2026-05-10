@@ -252,10 +252,10 @@ drwxr-xr-x  hackathon-prep/             → Next hackathon: T-minus unknown days
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!%20Star%20a%20repo%20if%20you%20liked%20it%20%E2%AD%90&fontSize=15&fontColor=00f5ff&animation=twinkling&fontAlignY=65"/>
 
 <div align="center">
-  <h3>⚡ Built with ❤️ + ☕ + way too many Stack Overflow tabs · <b>git blame never points to me 😎</b></h3>
+  <h3>⚡ Built with ❤️ + ☕ + way too many Stack Overflow tabs · <b>git blame never points to me 😎</b>⚡</h3>
   <div align="center">
   <sub style="font-size:18px;">
-    ⚡ <h1>Built with passion by Ritik Pandey
+     <h1>Built with passion by Ritik Pandey
     Debugging takes longer than coding 😅</h1> 
   </sub>
 </div>
