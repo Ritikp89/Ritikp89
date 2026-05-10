@@ -255,8 +255,8 @@ drwxr-xr-x  hackathon-prep/             → Next hackathon: T-minus unknown days
   <h3>⚡ Built with ❤️ + ☕ + way too many Stack Overflow tabs · <b>git blame never points to me 😎</b></h3>
   <div align="center">
   <sub style="font-size:18px;">
-    ❤️ ⚡ <b>Built with passion by Ritik Pandey</b> · 
-    <h1>Debugging takes longer than coding 😅</h1> ❤️
+    ⚡ <h1>Built with passion by Ritik Pandey</h1> · 
+    <h1>Debugging takes longer than coding 😅</h1> 
   </sub>
 </div>
 </div>
