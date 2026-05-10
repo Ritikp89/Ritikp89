@@ -18,7 +18,7 @@
 
 ---
 
-## 🖥️ `$ whoami`
+## 🖥️ `$ who am i`
 
 ```bash
 ritik@dev:cat identity.json
