@@ -19,7 +19,7 @@
 ## 🖥️ $ who am i
 
 ```bash
-ritik@dev:~$ cat identity.json
+ritik@dev: cat identity.json
 ```
 
 ```json
@@ -38,7 +38,7 @@ ritik@dev:~$ cat identity.json
 ```
 
 ```bash
-ritik@dev:~$ uptime
+ritik@dev: uptime
   Always coding. Rarely sleeping. Constantly debugging.
 ```
 
