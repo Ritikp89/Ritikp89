@@ -15,6 +15,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ritikp89.ritikp89&left_color=0d1117&right_color=00f5ff&left_text=VISITORS)
+&nbsp;
 
 </div>
 
@@ -23,10 +24,10 @@
 <!-- About Me Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-## 🧬 `whoami`
+## 🧬 `who am i`
 
 ```json
-// $ cat about_me.json
+
 {
   "name": "Ritik Pandey",
   "location": "India 🇮🇳",
