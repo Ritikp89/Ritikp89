@@ -256,7 +256,7 @@ drwxr-xr-x  hackathon-prep/             → Next hackathon: T-minus unknown days
   <div align="center">
   <sub style="font-size:18px;">
     ❤️ ⚡ <b>Built with passion by Ritik Pandey</b> · 
-    <b>Debugging takes longer than coding 😅</b> ❤️
+    <h1>Debugging takes longer than coding 😅</h1> ❤️
   </sub>
 </div>
 </div>
