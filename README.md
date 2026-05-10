@@ -20,7 +20,6 @@
 ## 🖥️ `$ whoami`
 
 ```bash
-ritik@dev:~$ cat identity.json
 ```
 
 ```json
