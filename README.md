@@ -14,7 +14,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fritikp89&count_bg=%2300F5FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 </div>
 
@@ -23,10 +23,10 @@
 <!-- About Me Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-## 🧬 `whoami`
+## 🧬 `who am i`
 
 ```json
-// $ cat about_me.json
+
 {
   "name": "Ritik Pandey",
   "location": "India 🇮🇳",
