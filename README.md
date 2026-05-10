@@ -5,16 +5,16 @@
 
 <!-- Typing SVG -->
 <br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=🔭+Building+AI-powered+web+apps;⚡+MERN+Stack+Developer;🤖+ML+%26+Deep+Learning+Explorer;🚀+Hackathon+Competitor;💡+Turning+Ideas+into+Products" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%94%AD+Building+AI-powered+web+apps;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%A4%96+ML+%26+Deep+Learning+Explorer;%F0%9F%9A%80+Hackathon+Competitor;%F0%9F%92%A1+Turning+Ideas+into+Products" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Profile Views + Followers -->
+<!-- Profile Views + Followers + Visitors -->
 [![Profile Views](https://komarev.com/ghpvc/?username=ritikp89&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ritikp89)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+&nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fritikp89&count_bg=%2300F5FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -23,13 +23,10 @@
 <!-- About Me Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-## 🧬 `who am i`
+## 🧬 `whoami`
 
-
-$ cat about_me.json
-
-
-
+```json
+// $ cat about_me.json
 {
   "name": "Ritik Pandey",
   "location": "India 🇮🇳",
@@ -41,7 +38,7 @@ $ cat about_me.json
   "fun_fact": "Debugging takes longer than coding 😅",
   "status": "⚡ Open to Collaborate"
 }
-
+```
 
 ---
 
@@ -176,6 +173,22 @@ $ cat about_me.json
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+---
+
+## 👥 Visitor Count
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/ritikp89/count.svg" />
+
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fritikp89&count_bg=%2300F5FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=TOTAL+VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=ritikp89&color=ff2d78&style=for-the-badge&label=PAGE+VIEWS)](https://github.com/ritikp89)
+
 </div>
 
 ---
