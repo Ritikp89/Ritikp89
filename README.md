@@ -14,7 +14,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
-![Visitors](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=VISITORS&color=00f5ff&labelColor=0d1117&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fritikp89%2Fritikp89)
+![Visitors](https://komarev.com/ghpvc/?username=ritikp89&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=VISITORS)
 
 </div>
 
@@ -185,7 +185,7 @@
 
 <br/>
 
-![Visitors](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=TOTAL+VISITORS&color=00f5ff&labelColor=0d1117&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fritikp89%2Fritikp89)
+![Visitors](https://komarev.com/ghpvc/?username=ritikp89&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=TOTAL+VISITORS)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=ritikp89&color=ff2d78&style=for-the-badge&label=PAGE+VIEWS)](https://github.com/ritikp89)
 
@@ -199,3 +199,4 @@
 <div align="center">
   <sub>⚡ Built with passion by Ritik Pandey · Debugging takes longer than coding 😅</sub>
 </div>
+
