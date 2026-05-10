@@ -203,5 +203,5 @@
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=00f5ff&animation=twinkling&fontAlignY=65"/>
 <div align="center">
-  <sub>⚡ Built with passion by Ritik Pandey · <b>Debugging takes longer than coding 😅</b></sub>
+  <h3>⚡ Built with ❤️ by Ritik Pandey · <b>Debugging takes longer than coding 😅</b></h3>
 </div>
