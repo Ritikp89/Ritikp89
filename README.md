@@ -57,6 +57,18 @@
 
 ---
 
+## 🏅 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ritikp89-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ritikp89/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-ritikp89-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ritikp89)
+[![Codeforces](https://img.shields.io/badge/Codeforces-pandey89-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandey89)
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Languages
@@ -198,4 +210,3 @@
 <div align="center">
   <sub>⚡ Built with passion by Ritik Pandey · Debugging takes longer than coding 😅</sub>
 </div>
-
