@@ -38,7 +38,7 @@
 ```
 
 ```bash
-ritik@dev:~$ uptime
+ritik@dev: uptime
   Always coding. Rarely sleeping. Constantly debugging.
 ```
 
