@@ -23,13 +23,13 @@
 <!-- About Me Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-## 🧬 `whoami`
+## 🧬 `who am i`
 
-```bash
+
 $ cat about_me.json
-```
 
-```json
+
+
 {
   "name": "Ritik Pandey",
   "location": "India 🇮🇳",
@@ -41,7 +41,7 @@ $ cat about_me.json
   "fun_fact": "Debugging takes longer than coding 😅",
   "status": "⚡ Open to Collaborate"
 }
-```
+
 
 ---
 
