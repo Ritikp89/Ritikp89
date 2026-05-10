@@ -14,7 +14,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fritikp89&count_bg=%2300F5FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ritikp89.ritikp89&left_color=0d1117&right_color=00f5ff&left_text=VISITORS)
 
 </div>
 
@@ -185,7 +185,7 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fritikp89&count_bg=%2300F5FF&title_bg=%230D1117&icon=github&icon_color=%23FFFFFF&title=TOTAL+VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ritikp89.ritikp89&left_color=0d1117&right_color=00f5ff&left_text=TOTAL+VISITORS)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=ritikp89&color=ff2d78&style=for-the-badge&label=PAGE+VIEWS)](https://github.com/ritikp89)
 
