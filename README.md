@@ -258,3 +258,25 @@ drwxr-xr-x  hackathon-prep/             → Next hackathon: T-minus unknown days
   <h3>⚡ Built with ❤️ + ☕ + way too many Stack Overflow tabs · <b>git blame never points to me 😎</b> ⚡</h3>
   <h4>Built with passion by Ritik Pandey · Debugging takes longer than coding 😅</h4>
 </div>
+
+<div align="center">
+  <style>
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .cursor {
+      display: inline-block;
+      width: 3px;
+      height: 1.2em;
+      background-color: #00f5ff;
+      margin-left: 4px;
+      animation: blink 1s infinite;
+      vertical-align: middle;
+    }
+  </style>
+  <p style="font-size: 18px; color: #00f5ff; font-family: 'Fira Code', monospace;">
+    <span style="color: #ffffff;">✨ More projects coming soon</span><span class="cursor"></span>
+  </p>
+</div>
+
