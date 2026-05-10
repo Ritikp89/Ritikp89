@@ -14,7 +14,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/ritikp89?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
-[![Visitors](https://img.shields.io/badge/Visitors-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&label=VISITORS&color=7c3aed)]
+![Visitors](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=VISITORS&color=00f5ff&labelColor=0d1117&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fritikp89%2Fritikp89)
 
 </div>
 
@@ -23,10 +23,10 @@
 <!-- About Me Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-## 🧬 `who am i`
+## 🧬 `whoami`
 
 ```json
-
+// $ cat about_me.json
 {
   "name": "Ritik Pandey",
   "location": "India 🇮🇳",
@@ -185,7 +185,7 @@
 
 <br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ritikp89.ritikp89&left_color=0d1117&right_color=00f5ff&left_text=TOTAL+VISITORS)
+![Visitors](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=TOTAL+VISITORS&color=00f5ff&labelColor=0d1117&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fritikp89%2Fritikp89)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=ritikp89&color=ff2d78&style=for-the-badge&label=PAGE+VIEWS)](https://github.com/ritikp89)
 
