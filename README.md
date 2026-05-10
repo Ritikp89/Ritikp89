@@ -207,7 +207,7 @@ def binary_search(arr: list, target: int) -> int:
 ## 🔥 What I'm Currently Hacking On
 
 ```bash
-ritik@dev:~$ ls -la ./current_projects/
+ritik@dev: ls -la ./current_projects/
 ```
 
 ```
