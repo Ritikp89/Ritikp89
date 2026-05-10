@@ -23,10 +23,9 @@
 <!-- About Me Section -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-## 🧬 `whoami`
+## 🧬 `who am i`
 
 ```json
-// $ cat about_me.json
 {
   "name": "Ritik Pandey",
   "location": "India 🇮🇳",
