@@ -5,8 +5,7 @@
 
 <!-- Typing SVG -->
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%94%AD+Building+AI-powered+web+apps;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%A4%96+ML+%26+Deep+Learning+Explorer;%F0%9F%9A%80+Hackathon+Competitor;%F0%9F%92%A1+Turning+Ideas+into+Products" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%94%AD+Building+AI-powered+web+apps;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%A4%96+ML+%26+Deep+Learning+Explorer;%F0%9F%9A%80+Hackathon+Competitor;%F0%9F%92%A1+Turning+Ideas+into+Products;%F0%9F%8F%86+Competitive+Programmer;%F0%9F%A7%A0+DSA+Enthusiast" alt="Typing SVG" />
 <br/><br/>
 
 <!-- Profile Views + Followers + Visitors -->
