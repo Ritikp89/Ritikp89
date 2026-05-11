@@ -66,7 +66,7 @@ ritik@dev: uptime
 
 | Platform | Handle | Achievement |
 |:---:|:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Ritikp89/) | @Ritikp89 | 🟠 300+ Problems Solved |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Ritikp89/) | @Ritikp89 | 🟠 500+ Problems Solved |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandey89) | @pandey89 | 🟦 Pupil |
 | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/ritikp89) | @ritikp89 | ⭐⭐⭐ 3 Star |
 
