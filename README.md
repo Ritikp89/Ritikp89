@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff4e50,50:f9d423,100:7c3aed&height=220&section=header&text=RITIK%20PANDEY&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=AI%20Builder%20%7C%20Full%20Stack%20Dev%20%7C%20Competitive%20Programmer%20%7C%20DSA%20Enthusiast&descSize=16&descAlignY=75&descColor=ffffff"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff4e50,50:f9d423,100:7c3aed&height=220&section=header&text=RITIK%20PANDEY&fontSize=75&fontColor=0000ff&animation=twinkling&fontAlignY=55&desc=AI%20Builder%20%7C%20Full%20Stack%20Dev%20%7C%20Competitive%20Programmer%20%7C%20DSA%20Enthusiast&descSize=16&descAlignY=75&descColor=ffffff"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%94%AD+Building+AI-powered+web+apps;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%A4%96+ML+%26+Deep+Learning+Explorer;%F0%9F%9A%80+Hackathon+Competitor;%F0%9F%92%A1+Turning+Ideas+into+Products;%F0%9F%8F%86+Competitive+Programmer;%F0%9F%A7%A0+DSA+%7C+600%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
