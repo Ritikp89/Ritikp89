@@ -175,13 +175,6 @@ def binary_search(arr: list, target: int) -> int:
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritikp89&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
