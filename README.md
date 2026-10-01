@@ -210,17 +210,6 @@ drwxr-xr-x  hackathon-prep/             → Next hackathon: T-minus unknown days
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
----
-
-## 👥 Visitor Count
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=ritikp89&color=7c3aed&style=for-the-badge&label=VISITORS)
-
-</div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!%20Star%20a%20repo%20if%20you%20liked%20it%20%E2%AD%90&fontSize=15&fontColor=00f5ff&animation=twinkling&fontAlignY=65"/>
 
