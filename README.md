@@ -6,8 +6,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ritikp89&color=blueviolet&style=flat-square&label=Profile+Views)
-&nbsp;
+
 [![GitHub followers](https://img.shields.io/github/followers/ritikp89?label=Followers&style=flat-square&color=00f5ff)](https://github.com/ritikp89)
 
 </div>
